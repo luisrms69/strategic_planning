@@ -1,0 +1,32 @@
+{
+ "actions": [],
+ "creation": "2022-11-19 20:02:35.047219",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "kpi"
+ ],
+ "fields": [
+  {
+   "fieldname": "kpi",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "KPI",
+   "options": "KPI",
+   "remember_last_selected_value": 1
+  }
+ ],
+ "istable": 1,
+ "links": [],
+ "modified": "2022-11-19 20:02:35.047219",
+ "modified_by": "Administrator",
+ "module": "Strategic Planning",
+ "name": "OKR Dependent Task",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
